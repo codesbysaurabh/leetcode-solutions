@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0001-two-sum) |
+| [0414-third-maximum-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -20,4 +21,8 @@
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
