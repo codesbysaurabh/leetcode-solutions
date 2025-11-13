@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0507-perfect-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0507-perfect-number) |
 ## Binary Search
 |  |
 | ------- |
