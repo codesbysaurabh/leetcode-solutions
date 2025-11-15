@@ -6,7 +6,6 @@ class Solution {
             out=out*10+temp%10;
             temp/=10;
         }
-        if(x==out) return true;
-        return false;
+        return x==out;
     }
 }
