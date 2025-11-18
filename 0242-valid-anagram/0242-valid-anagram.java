@@ -10,7 +10,5 @@ class Solution {
 
         if(sorteds.equals(sortedt)) return true;
         return false;
-
-        //OR return Arrays.equals(arrs, arrt);
     }
 }
