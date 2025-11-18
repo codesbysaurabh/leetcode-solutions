@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -34,12 +35,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0504-base-7](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0504-base-7) |
 ## Greedy
 |  |
