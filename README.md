@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -27,6 +28,7 @@
 | [0050-powx-n](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0504-base-7](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0507-perfect-number) |
@@ -62,6 +64,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
