@@ -20,6 +20,7 @@
 | [0012-integer-to-roman](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0012-integer-to-roman](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0504-base-7](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0504-base-7) |
 ## Greedy
 |  |
@@ -59,6 +61,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
