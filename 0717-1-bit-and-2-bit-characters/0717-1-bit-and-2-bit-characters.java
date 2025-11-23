@@ -1,3 +1,4 @@
+//chatgpt said it would not work but it worked as i thought lolh
 class Solution {
     public boolean isOneBitCharacter(int[] bits) {
         int n=bits.length;
