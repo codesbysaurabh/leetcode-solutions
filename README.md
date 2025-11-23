@@ -43,6 +43,7 @@
 | [0326-power-of-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0504-base-7](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0507-perfect-number) |
+| [2169-count-operations-to-obtain-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2630-alternating-digit-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2630-alternating-digit-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
@@ -98,6 +99,7 @@
 | [0054-spiral-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2169-count-operations-to-obtain-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
