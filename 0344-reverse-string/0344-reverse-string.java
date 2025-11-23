@@ -1,11 +1,24 @@
 class Solution {
     public void reverseString(char[] s) {
+       int l=0,r=s.length-1;
+        while(l<r){
+            char temp = s[l];
+            s[l] = s[r];
+            s[r] = temp;
+            l ++;
+            r --;
+        }
+    }
+}
+
+/* class Solution {
+    public void reverseString(char[] s) {
         ArrayList<Character> list = new ArrayList<>();
         for(char c:s) list.add(c);
         Collections.reverse(list);
         for(int i=0;i<s.length;i++) s[i]=list.get(i);
     }
-}
+} */
 
 /* class Solution {
     public void reverseString(char[] s) {
