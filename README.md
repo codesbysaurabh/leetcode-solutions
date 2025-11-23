@@ -15,6 +15,7 @@
 | [0485-max-consecutive-ones](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## String
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Counting Sort
 |  |
 | ------- |
@@ -94,4 +97,8 @@
 | ------- |
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 <!---LeetCode Topics End-->
