@@ -1,3 +1,4 @@
+//48.48MB 58.53%
 class Solution {
     public void reverseString(char[] s) {
        int l=0,r=s.length-1;
@@ -11,6 +12,8 @@ class Solution {
     }
 }
 
+//My codes-
+//Arraylist is worst for space complexity
 /* class Solution {
     public void reverseString(char[] s) {
         ArrayList<Character> list = new ArrayList<>();
@@ -19,7 +22,7 @@ class Solution {
         for(int i=0;i<s.length;i++) s[i]=list.get(i);
     }
 } */
-
+//memory 48.49MB 58.53%
 /* class Solution {
     public void reverseString(char[] s) {
         int n=s.length;
