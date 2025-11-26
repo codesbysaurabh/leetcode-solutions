@@ -51,6 +51,7 @@
 | [0507-perfect-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1323-maximum-69-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1518-water-bottles](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2630-alternating-digit-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2630-alternating-digit-sum) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
+| [1518-water-bottles](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1518-water-bottles) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
