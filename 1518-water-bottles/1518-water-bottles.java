@@ -9,3 +9,9 @@ class Solution {
         return total;
     }
 }
+
+        /*  drunk=0,empty=0;
+            drunk += bottles;
+            empty += bottles;
+            bottles = empty / exchange;
+            empty %= exchange; */
