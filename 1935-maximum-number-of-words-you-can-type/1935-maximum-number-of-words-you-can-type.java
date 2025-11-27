@@ -1,6 +1,6 @@
 class Solution {
     public int canBeTypedWords(String text, String brokenLetters) {
-        String[] s=text.split("\\s+");
+        String[] s=text.split(" ");
         int typables=0;
 
         for(String t:s){
