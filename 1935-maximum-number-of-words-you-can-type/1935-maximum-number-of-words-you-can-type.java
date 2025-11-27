@@ -3,11 +3,13 @@ class Solution {
         String[] s=text.split(" ");
         int typables=0;
 
-        for(String t:s){
+        for(String word:s){
             boolean ok = true;
             for(int i=0;i<brokenLetters.length();i++){
-                if(t.contains(brokenLetters.charAt(i)+"")) ok=false;
-                //break;
+                if(word.contains(brokenLetters.charAt(i)+"")){
+                    ok=false;
+                    break;
+                }
             }
             if(ok) typables++;
         }
