@@ -8,7 +8,7 @@ class Solution {
             for(int i=0;i<brokenLetters.length();i++){
                 if(word.contains(brokenLetters.charAt(i)+"")){
                     ok=false;
-                    break;
+                    break;//this break is very important turned 11ms to 3 ms;
                 }
             }
             if(ok) typables++;
