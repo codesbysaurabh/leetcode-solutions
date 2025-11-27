@@ -68,6 +68,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3516-find-closest-person](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3516-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
