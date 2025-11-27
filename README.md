@@ -35,6 +35,7 @@
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -88,6 +89,7 @@
 | [0344-reverse-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0504-base-7](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0504-base-7) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
 |  |
