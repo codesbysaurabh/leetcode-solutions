@@ -14,3 +14,21 @@ class Solution {
         return count;
     }
 }
+
+/* int unplaced=0;
+        int n=a.length;
+        int m=b.length;
+        for(int i=0;i<n;i++){
+            boolean placed=false;
+            for(int j=0;j<m;j++){
+                if(b[j]>=a[i]){
+                    b[j]=-1;
+                    placed=true;
+                    break;
+                }
+            }
+            if(!placed){
+                unplaced++;
+            }
+        }
+        return unplaced; */
