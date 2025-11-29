@@ -55,6 +55,7 @@
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0504-base-7) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Matrix
@@ -149,6 +151,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
