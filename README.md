@@ -20,6 +20,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -40,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -121,6 +123,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
