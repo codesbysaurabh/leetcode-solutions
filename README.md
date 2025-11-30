@@ -107,6 +107,7 @@
 | [1957-delete-characters-to-make-fancy-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3136-valid-word](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3136-valid-word) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
