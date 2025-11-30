@@ -1,21 +1,9 @@
 class Solution {
     public int findLucky(int[] arr) {
-        int[] freq = new int[501]; // To store frequency of values up to 500
-
-        // Count frequencies
-        for (int num : arr) {
-            freq[num]++;
-        }
-
+        int[] freq = new int[501];
+        for (int num : arr) freq[num]++;
         int luckyNum = -1;
-
-        // Check for lucky numbers
-        for (int i = 1; i <= 500; i++) {
-            if (freq[i] == i) {
-                luckyNum = i; // track largest lucky number
-            }
-        }
-
+        for (int i = 1; i <= 500; i++) if (freq[i] == i) luckyNum = i;
         return luckyNum;
     }
 }
