@@ -108,6 +108,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3136-valid-word](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3136-valid-word) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
