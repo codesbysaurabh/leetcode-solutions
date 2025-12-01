@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -89,6 +91,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
@@ -123,6 +126,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -183,4 +187,8 @@
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
