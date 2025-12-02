@@ -46,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -97,6 +98,7 @@
 | [0169-majority-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -112,6 +114,7 @@
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0504-base-7) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -172,6 +175,7 @@
 | [0136-single-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
