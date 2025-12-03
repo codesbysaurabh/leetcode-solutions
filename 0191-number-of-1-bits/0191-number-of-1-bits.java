@@ -4,9 +4,7 @@ class Solution {
         while(n!=0){
             digit=n%2;
             n/=2;
-            binary=binary*10+digit;
-            if(digit==0) binary>>=1;
-            else cnt++;
+            if(digit==1) cnt++;
         }
         return cnt;
 
