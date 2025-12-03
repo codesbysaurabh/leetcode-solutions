@@ -1,3 +1,4 @@
+//(num-1)%9+1;
 class Solution {
     public int addDigits(int num) {
         int sum=0;
