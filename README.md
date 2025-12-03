@@ -20,6 +20,7 @@
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -103,6 +104,7 @@
 | [0414-third-maximum-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -139,6 +141,7 @@
 | [0169-majority-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -203,4 +206,21 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
