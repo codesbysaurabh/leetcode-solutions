@@ -37,6 +37,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -93,6 +94,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3516-find-closest-person) |
 ## Binary Search
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Segment Tree
 |  |
 | ------- |
