@@ -88,6 +88,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1518-water-bottles) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2630-alternating-digit-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2630-alternating-digit-sum) |
