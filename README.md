@@ -80,6 +80,7 @@
 | [0268-missing-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0976-largest-perimeter-triangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -105,6 +106,7 @@
 | [0035-search-insert-position](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
