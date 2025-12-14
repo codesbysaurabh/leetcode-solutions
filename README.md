@@ -97,6 +97,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1037-valid-boomerang) |
+| [1103-distribute-candies-to-people](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1323-maximum-69-number) |
@@ -206,6 +207,7 @@
 | [0054-spiral-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0258-add-digits) |
+| [1103-distribute-candies-to-people](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1518-water-bottles) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
