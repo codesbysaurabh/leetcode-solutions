@@ -22,6 +22,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -55,6 +56,7 @@
 | [0268-missing-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0888-fair-candy-swap](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -124,6 +126,7 @@
 | [0367-valid-perfect-square](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [3477-fruits-into-baskets-ii](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -137,6 +140,7 @@
 | [0455-assign-cookies](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0888-fair-candy-swap](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
