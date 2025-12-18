@@ -113,6 +113,7 @@
 | [2630-alternating-digit-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2630-alternating-digit-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3360-stone-removal-game](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -221,6 +222,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [3360-stone-removal-game](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
