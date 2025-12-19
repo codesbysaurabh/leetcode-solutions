@@ -23,6 +23,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -142,6 +143,7 @@
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -198,6 +200,7 @@
 | [0202-happy-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Recursion
 |  |
 | ------- |
