@@ -112,6 +112,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2169-count-operations-to-obtain-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2469-convert-the-temperature](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2578-split-with-minimum-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2630-alternating-digit-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2630-alternating-digit-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
