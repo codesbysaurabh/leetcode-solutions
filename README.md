@@ -32,6 +32,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -110,6 +111,7 @@
 | [1518-water-bottles](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2169-count-operations-to-obtain-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -248,6 +250,7 @@
 | [0461-hamming-distance](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1486-xor-operation-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -305,6 +308,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 ## Brainteaser
 |  |
@@ -320,4 +324,12 @@
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1037-valid-boomerang) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
