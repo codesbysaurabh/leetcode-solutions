@@ -117,6 +117,7 @@
 | [1512-number-of-good-pairs](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
@@ -239,6 +240,7 @@
 | [0258-add-digits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0258-add-digits) |
 | [1103-distribute-candies-to-people](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1518-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
