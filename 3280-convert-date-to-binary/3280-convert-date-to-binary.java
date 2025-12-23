@@ -1,9 +1,14 @@
 class Solution {
     public String convertDateToBinary(String date) {
-        String[]part=date.split("-");
-        int y=Integer.parseInt(part[0]);
-        int m=Integer.parseInt(part[1]);
-        int d=Integer.parseInt(part[2]);
-        return Integer.toBinaryString(y)+"-"+Integer.toBinaryString(m)+"-"+Integer.toBinaryString(d);
+
+        String[] parts = date.split("-");
+
+        int year  = Integer.parseInt(parts[0]);
+        int month = Integer.parseInt(parts[1]);
+        int day   = Integer.parseInt(parts[2]);
+
+        return Integer.toBinaryString(year) + "-" +
+               Integer.toBinaryString(month) + "-" +
+               Integer.toBinaryString(day);
     }
 }
