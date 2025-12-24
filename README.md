@@ -138,6 +138,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -319,6 +320,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
 | ------- |
