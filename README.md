@@ -34,6 +34,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1512-number-of-good-pairs](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1550-three-consecutive-odds](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
