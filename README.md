@@ -34,6 +34,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1512-number-of-good-pairs](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -191,6 +192,7 @@
 | [0409-longest-palindrome](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0504-base-7](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0504-base-7) |
 | [1154-day-of-the-year](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1154-day-of-the-year) |
+| [1528-shuffle-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1556-thousand-separator) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
