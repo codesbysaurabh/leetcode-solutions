@@ -50,6 +50,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -139,6 +140,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -219,6 +221,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3136-valid-word](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3136-valid-word) |
@@ -272,6 +275,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Simulation
 |  |
