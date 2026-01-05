@@ -39,6 +39,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -182,6 +183,7 @@
 | [0441-arranging-coins](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3477-fruits-into-baskets-ii](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
@@ -290,6 +292,7 @@
 | [0048-rotate-image](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
