@@ -121,6 +121,7 @@
 | [0342-power-of-four](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0507-perfect-number) |
@@ -226,6 +227,7 @@
 | [0389-find-the-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0504-base-7) |
 | [0925-long-pressed-name](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [1154-day-of-the-year](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1154-day-of-the-year) |
@@ -302,6 +304,7 @@
 | [0054-spiral-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0415-add-strings) |
 | [1103-distribute-candies-to-people](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1646-get-maximum-in-generated-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
