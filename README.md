@@ -138,6 +138,7 @@
 | [1037-valid-boomerang](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1103-distribute-candies-to-people](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1154-day-of-the-year) |
+| [1175-prime-arrangements](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1175-prime-arrangements) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
