@@ -288,6 +288,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -426,4 +427,5 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
