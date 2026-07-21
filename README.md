@@ -427,5 +427,6 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0092-reverse-linked-list-ii](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
