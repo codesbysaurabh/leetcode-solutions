@@ -25,6 +25,7 @@
 | [0704-binary-search](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0840-magic-squares-in-grid](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -187,6 +188,7 @@
 | [0367-valid-perfect-square](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -444,4 +446,8 @@
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
