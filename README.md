@@ -62,6 +62,7 @@
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -193,6 +194,7 @@
 | [0888-fair-candy-swap](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -273,6 +275,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
