@@ -225,6 +225,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
