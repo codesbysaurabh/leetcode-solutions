@@ -237,6 +237,7 @@
 | [0020-valid-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -296,6 +297,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0344-reverse-string) |
