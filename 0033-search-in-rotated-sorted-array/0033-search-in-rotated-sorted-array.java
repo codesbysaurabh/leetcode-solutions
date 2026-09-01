@@ -4,10 +4,10 @@ class Solution {
 
         while(lo<=hi){
             int mid = (lo+hi)/2;
-            if(nums[lo]==tar) return lo;
-            if(nums[hi]==tar) return hi;
+            //if(nums[lo]==tar) return lo;
+            //if(nums[hi]==tar) return hi;
             if(nums[mid]==tar) return mid;
-            else if (nums[lo]<nums[mid]) {
+            else if (nums[lo]<=nums[mid]) {
                 if(nums[lo]<=tar && tar<nums[mid]) hi=mid-1;
                 else lo=mid+1;
             }
