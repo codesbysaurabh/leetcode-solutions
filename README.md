@@ -230,6 +230,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -460,4 +461,12 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
