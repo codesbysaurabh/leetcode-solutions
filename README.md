@@ -68,6 +68,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -260,6 +261,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3136-valid-word](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3136-valid-word) |
 | [3280-convert-date-to-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -286,6 +288,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
