@@ -239,6 +239,7 @@
 | [0012-integer-to-roman](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -373,6 +374,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -452,6 +454,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -487,6 +490,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Euclidean Algorithm
 |  |
 | ------- |
