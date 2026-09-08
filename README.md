@@ -27,6 +27,7 @@
 | [0561-array-partition](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0561-array-partition) |
 | [0598-range-addition-ii](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0840-magic-squares-in-grid](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
@@ -346,6 +347,7 @@
 | [0067-add-binary](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1646-get-maximum-in-generated-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
@@ -499,6 +501,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bracket Sequences
 |  |
