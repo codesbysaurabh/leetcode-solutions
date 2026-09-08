@@ -86,6 +86,7 @@
 | [0001-two-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -474,6 +475,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
