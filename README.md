@@ -330,6 +330,7 @@
 | [0326-power-of-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -484,6 +485,7 @@
 | [0328-odd-even-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -503,6 +505,7 @@
 | [0234-palindrome-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -528,4 +531,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
