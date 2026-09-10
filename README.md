@@ -257,6 +257,7 @@
 | [0168-excel-sheet-column-title](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -475,6 +476,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -541,6 +543,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -565,6 +568,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -575,4 +579,5 @@
 | ------- |
 | [0112-path-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
