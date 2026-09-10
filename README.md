@@ -539,6 +539,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -558,4 +559,16 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0155-min-stack) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
