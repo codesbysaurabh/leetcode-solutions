@@ -599,6 +599,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -627,6 +628,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## DP on Trees
 |  |
@@ -644,5 +646,6 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
