@@ -402,6 +402,7 @@
 | [0509-fibonacci-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -569,6 +570,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -613,6 +615,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -648,10 +651,12 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -673,4 +678,5 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
