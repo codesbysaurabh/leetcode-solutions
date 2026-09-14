@@ -36,7 +36,7 @@ M             1000</pre>
 <pre>
 <strong>Input:</strong> s = &quot;LVIII&quot;
 <strong>Output:</strong> 58
-<strong>Explanation:</strong> L = 50, V= 5, III = 3.
+<strong>Explanation:</strong> L = 50; V= 5; III = 3.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
