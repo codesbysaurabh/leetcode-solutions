@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -212,6 +213,7 @@
 | [0069-sqrtx](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0704-binary-search) |
@@ -232,6 +234,7 @@
 | [0217-contains-duplicate](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -351,6 +354,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -437,6 +441,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
