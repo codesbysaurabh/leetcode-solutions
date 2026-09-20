@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0066-plus-one) |
@@ -324,6 +325,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -404,6 +406,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -533,6 +536,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0155-min-stack) |
@@ -589,6 +593,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
