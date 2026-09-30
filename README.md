@@ -236,6 +236,7 @@
 | [0217-contains-duplicate](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -331,6 +332,7 @@
 | [0189-rotate-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -445,6 +447,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -606,6 +609,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Tree
 |  |
 | ------- |
@@ -700,4 +704,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
