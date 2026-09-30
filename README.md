@@ -47,6 +47,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0973-k-closest-points-to-origin](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -161,6 +162,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0973-k-closest-points-to-origin](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1025-divisor-game) |
@@ -246,6 +248,7 @@
 | [0888-fair-candy-swap](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -442,6 +445,7 @@
 | [0191-number-of-1-bits](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -450,6 +454,7 @@
 | [0295-find-median-from-data-stream](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -494,6 +499,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1037-valid-boomerang](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/1037-valid-boomerang) |
 ## Backtracking
 |  |
@@ -704,8 +710,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
