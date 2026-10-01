@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -338,6 +340,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/codesbysaurabh/leetcode-solutions/tree/master/0189-rotate-array) |
